@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Countdown Timer
+Comment=Always-on-top circular countdown timer
+Exec=python3 /opt/countdown_timer/countdown.py
+Icon=appointment-soon
+Terminal=false
+Categories=Utility;
+StartupNotify=false
